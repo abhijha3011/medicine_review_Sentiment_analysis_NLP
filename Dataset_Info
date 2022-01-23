@@ -1,0 +1,27 @@
+=====>Aabout Data - Since the data size was 176mb around, so it was not possible for me to attach csv directly/zipped.
+
+
+===============>Below is the data set location::
+
+https://www.kaggle.com/rohanharode07/webmd-drug-reviews-dataset
+
+Dataset name: "webmd.csv"
+Size: 176.77 MB
+Shape: (362806, 12)
+
+Info about columns:
+
+
+Drug (categorical): name of drug
+DrugId (numerical): drug id
+Condition (categorical): name of condition
+Review (text): patient review
+Side (text): side effects associated with drug (if any)
+EaseOfUse (numerical): 5 star rating
+Effectiveness (numerical): 5 star rating
+Satisfaction (numerical): 5 star rating
+Date (date): date of review entry
+UsefulCount (numerical): number of users who found review useful.
+Age (numerical): age group range of user
+Sex (categorical): gender of user
+Thanks.
